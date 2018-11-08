@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Stroke Test</string>
   <key>openTypeHeadCreated</key>
-  <string>2018/08/09 22:36:47</string>
+  <string>2018/11/08 18:34:39</string>
   <key>openTypeHheaAscender</key>
   <integer>1000</integer>
   <key>openTypeHheaDescender</key>
@@ -91,9 +91,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2Type</key>
   <array/>
   <key>openTypeOS2TypoAscender</key>
-  <integer>2100</integer>
+  <integer>1000</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-550</integer>
+  <integer>-300</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>0</integer>
   <key>openTypeOS2UnicodeRanges</key>
@@ -112,6 +112,14 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>300</integer>
   <key>postscriptFontName</key>
   <string>StrokeTest-Regular</string>
+  <key>postscriptStemSnapH</key>
+  <array/>
+  <key>postscriptStemSnapV</key>
+  <array/>
+  <key>postscriptUnderlinePosition</key>
+  <integer>-100</integer>
+  <key>postscriptUnderlineThickness</key>
+  <integer>50</integer>
   <key>styleMapFamilyName</key>
   <string>Stroke Test</string>
   <key>styleMapStyleName</key>
