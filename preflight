@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# This normalization will also run check and fix routines
+psfnormalize -p checkfix=fix source/StrokeTest-Regular.ufo -l source/logs/normR.log
