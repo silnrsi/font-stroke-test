@@ -14,7 +14,6 @@
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
   <integer>0</integer>
-  <string/>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
   <integer>400</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
