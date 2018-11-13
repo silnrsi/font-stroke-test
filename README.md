@@ -1,6 +1,6 @@
 # Stroke Test
 
-Stroke Test is a font used only in the development of stroke-based design tools. It is not intended to be an installable font family.
+Stroke Test is a font used only in the development of stroke-based design tools. It is not intended to be an installable font family. For detailed information on the test glyphs provided see [details](documentation/details.md)
 
 For copyright and licensing information - including any Reserved Font Names - see [OFL.txt](OFL.txt).
 
